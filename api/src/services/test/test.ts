@@ -1,3 +1,3 @@
 export const test = () => {
-  return true
+  return { worked: true }
 }
